@@ -1,12 +1,16 @@
-- 👋 Hi, I’m @thatashish115
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I'm Ashish Kumar (@thatashish115)
 
-<!---
-thatashish115/thatashish115 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 👀 Interests
+- Cybersecurity & Ethical Hacking 🛡️
+- Web Development & DevSecOps 🌐
+- AI & Machine Learning 🤖
+- Game Development & Graphics 🎮
+
+### 🌱 Currently Learning
+- Advanced Web Security & Pentesting 🔍
+- Live2D Cubism SDK for Web 🎭
+
+### 💞️ Looking to Collaborate On
+- Security Research & Bug Bounties 🔓
+- Open-Source DevSecOps Projects 🚀
+- AI-Powered Web & Mobile Apps 🤖📱
